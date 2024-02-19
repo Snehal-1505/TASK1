@@ -1,2 +1,2 @@
 # TASK1
-I create a simple calculator using python
+I create a simple calculator using python.
